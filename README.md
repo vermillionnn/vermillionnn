@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vermillion</h1>
-<h3 align="center">Currently study majoring in Information and Communication Technology</h3>
+<h3 align="center">Currently studying in Information and Communication Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermillionnn&label=Profile%20views&color=0e75b6&style=flat" alt="vermillionnn" /> </p>
 
