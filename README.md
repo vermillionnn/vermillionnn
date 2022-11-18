@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: contact vermillion#7138 on **discord**
 
-- ⚡ Fun fact **I play bass on an emo band**
+- ⚡ Fun fact **I play bass in an emo band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
