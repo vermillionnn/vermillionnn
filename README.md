@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C/C++**
 
-- 📫 How to reach me: contact vermillion#7138 on **discord**
+- 📫 How to reach me: contact vermillionnn on **discord**
 
 - ⚡ Fun fact **I play bass in an emo band**
 
