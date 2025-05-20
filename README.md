@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm vermillion</h1>
-<h3 align="center">Currently studying in Information and Communication Technology</h3>
+<h3 align="center">I'm a Quality Assurance Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermillionnn&label=Profile%20views&color=0e75b6&style=flat" alt="vermillionnn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermillionnn" alt="vermillionnn" /></a> </p>
 
-- 🔭 I’m currently working on [tubihub discord bot](https://tubihub-bot.glitch.me/)
+- 🔭 I’m currently working QA Manual and automation using cyress and selenium
 
-- 🌱 I’m currently learning **Python, Machine Learning, and Javascript**
+- 🌱 I’m currently learning **QA Automation**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **Javascript, Cypress, Selenium**
 
 - 📫 How to reach me: contact vermillionnn on **discord**
 
