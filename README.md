@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermillionnn" alt="vermillionnn" /></a> </p>
 
-- 🔭 I’m currently working on manual and automation QA using cyress and selenium
+- 🔭 I’m currently working on manual and automation QA using cypress and selenium
 
 - 🌱 I’m currently learning **QA Automation**
 
